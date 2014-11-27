@@ -6356,3 +6356,10 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+/*Custom css by Pingy starts here*/
+div {
+  background-color: #0099CC;
+  height: 100px;
+  width: 100px;
+}
+
