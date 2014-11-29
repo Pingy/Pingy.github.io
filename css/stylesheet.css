@@ -4,5 +4,9 @@ div {
   height: 100px;
   width: 100px;
 }
+h2 {
+  color: Blue;
+  
+}
 /* Much better isn't it? */
 
