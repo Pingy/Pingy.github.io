@@ -6,6 +6,8 @@ h2 {
   background:     -ms-linear-gradient(90deg, #DC2424 10%, #4A569D 90%); /* IE10 */
   background:      -o-linear-gradient(90deg, #DC2424 10%, #4A569D 90%); /* Opera 11.10+ */
   background:         linear-gradient(90deg, #DC2424 10%, #4A569D 90%); /* W3C */
+  width: 100px;
+  height: 40px;
 }
 /* Much better isn't it? */
 
