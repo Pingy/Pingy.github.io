@@ -10,18 +10,21 @@ background: url("http://api.ning.com/files/MXekbi0HELhDur1Wv8-OF7eeRvheoP20j*auD
 #center {
    text-align: center;
 }
+h3 {
+  position: absolute;
+  top: 160;
+  color: White;
+  text-shadow: 0pt 1pt 5pt black;
+   font-family: 'Open Sans', sans-serif;
+}
+
+
 h1 {  
-    font: Helvetica;
     height: 25%;
     position: absolute;
-    top:0;
-    bottom: 0;
-    left: 0;
-    right: 0;
     text-shadow: 0pt 1pt 5pt black;
-    font-family: 'Open Sans', sans-serif;
     color: White;
     position: absolute;
     top: 150px;
-    
+    font-family: 'Titillium Web', sans-serif;
 }
