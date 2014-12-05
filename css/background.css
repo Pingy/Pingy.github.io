@@ -18,6 +18,7 @@ h2 {
     bottom: 0;
     left: 0;
     right: 0;
-  text-shadow: 0pt 1pt 5pt;
-  font-family: 'Open Sans', sans-serif;
+    text-shadow: 0pt 1pt 5pt;
+    font-family: 'Open Sans', sans-serif;
+    color: White;
 }
