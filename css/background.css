@@ -21,4 +21,7 @@ h1 {
     text-shadow: 0pt 1pt 5pt black;
     font-family: 'Open Sans', sans-serif;
     color: White;
+    position: absolute;
+    left: 100px;
+    top: 150px;
 }
