@@ -11,15 +11,14 @@ background: url("http://api.ning.com/files/MXekbi0HELhDur1Wv8-OF7eeRvheoP20j*auD
    text-align: center;
 }
 h3 {
-  position: absolute;
-  top: 255px;
-  color: White;
-  text-shadow: 0pt 1pt 5pt black;
+   position: absolute;
+   top: 255px;
+   color: White;
+   text-shadow: 0pt 1pt 5pt black;
    font-family: 'Open Sans', sans-serif;
-   
    bottom: 0;
-  left: 0;
-  right: 0;
+   left: 0;
+   right: 0;
 }
 
 
