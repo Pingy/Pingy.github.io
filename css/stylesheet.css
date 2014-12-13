@@ -35,3 +35,21 @@ h1 {
     left: 0;
     right: 0;
 }
+.box {
+  background: #004C80;
+  border-radius: 1px;
+  cursor: pointer;
+  height: 70px;
+  width: 70px;
+  -moz-border-radius: 35px;
+  border-radius: 35px;
+  line-height: 95px;
+  text-align: center;
+  transition-property: background;
+  transition-duration: 0.50s;
+  transition-timing-function: linear;
+  
+}
+.box:hover {
+  background: #0099FF;
+}
