@@ -54,13 +54,12 @@ h1 {
   background: #0099FF;
 }
 .github{
-  font-family: "Arial";
   display: inline-block;
   text-decoration: none;
   border: 1px solid #3f6fa0;
   height: 36px;
   line-height: 36px;
-  color: #3f6fa0;
+  color: none;
   -webkit-border-radius: 5px;
   -webkit-background-clip: padding-box;
   -moz-border-radius: 5px;
