@@ -54,7 +54,7 @@ h1 {
   background: #0099FF;
 }
 .github{
-  display: inline-block;
+  display: circle;
   text-decoration: none;
   border: 1px solid #3f6fa0;
   height: 36px;
