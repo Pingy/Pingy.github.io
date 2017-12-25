@@ -5,7 +5,8 @@ body {
   background:      -o-linear-gradient(90deg, #FC354C 10%, #0ABFBC 90%); 
   background:         linear-gradient(90deg, #FC354C 10%, #0ABFBC 90%);  W3C */
 background: url("http://api.ning.com/files/MXekbi0HELhDur1Wv8-OF7eeRvheoP20j*auDoTnxXzuXrRpEkj41LXurjfMRUrrRDBfKVFZBI99Uwo*-gD4Jw5068kenVyb/d67294e559eba7ebe52ef37c6d2d5bf2.jpg");
-  /* Background taken from Wikipedia */
+background-size: cover;   
+	/* Background taken from Wikipedia */
 }
 #center {
    text-align: center;
